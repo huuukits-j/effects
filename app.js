@@ -35,7 +35,7 @@ particlesJS('particles-js',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://cdn.jsdelivr.net/gh/huuukits-j/effects@be445ac/heart.png",
+          "src": "https://cdn.jsdelivr.net/gh/huuukits-j/effects@b46ab86/heart.png",
           "width": 100,
           "height": 100
         }
